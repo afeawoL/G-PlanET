@@ -24,7 +24,8 @@ pip install -r requirements.txt
 `main`: Includes all the code used in the main experiment.
 
 
-Use
+## Scripts
+
 ```
 bash script/data_init.sh
 
@@ -32,5 +33,6 @@ bash script/data_init.sh
 
 NOTE: Check and fill in your data path and model path in the scripts before execution
 
-Models used: `facebook/bart-base` and `facebook/bart-large`. All models can be found on Huggingface
+Models used: `facebook/bart-base` and `facebook/bart-large`. All models can be found on the HuggingFace Hub.
 
+#FUpdated Semi-frequently.
