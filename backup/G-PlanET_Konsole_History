@@ -1,0 +1,373 @@
+(base) solivers@lab-pc-02:~$ history 372
+    3  cd projects/
+    4  cd docker/
+    5  ls
+    6  vim docker-compose.yml
+    7  vim ~/.bashrc
+    8  source ~/.bashrc
+    9  vim Makefile
+   10  vim tmux-scripts.sh
+   11  make docker-build
+   12  ./tmux-scripts.sh
+   13  make docker-run
+   14  make docker-vscode
+   15  make docker-shell-pt
+   16  make docker-shell-tf2
+   17  cd projects/docker/
+   18  make docker-stop
+   19  clear
+   20  docker ps
+   21  ./tmux-scripts.sh
+   22  tmux kill-session -t star-dl
+   23  ./tmux-scripts.sh
+   24  lsb_releae -a
+   25  locale
+   26  sudo apt update && sudo apt install locales
+   27  sudo apt update
+   28  sudo apt install openmpi-bin openmpi-common libopenmpi-dev
+   29  gcc --version
+   30  gcc send_message.c -o send_mesaage
+   31  touch hello.c
+   32  gedit hello.c
+   33  gcc hello.c -o hello
+   34  ./hello
+   35  mpi.h --version
+   36  sudo apt update
+   37  // Simple C program to display "Hello World"
+   38  // Header file for input output functions
+   39  #include <stdio.hPlease use pip<24.1>
+   40  // Main function: entry point for execution
+   41  int main() {
+   42  }
+   43  gcc send_message.c -o send_message
+   44  sudo apt-get update
+   45  gcc send_message.c -o send_message
+   46  sudo apt-get install libcr-dev mpich2 mpich2-doc
+   47  sudo apt install libopenmpi-dev
+   48  gcc send_message.c -o send_message
+   49  find /usr/include -name mpi.h
+   50  gcc --version
+   51  sudo apt update
+   52  gcc send_message.c -o send_message
+   53  sudo apt install openmpi-bin open-common libopenmpi-dev
+   54  sudo apt install openmpi-bin openmpi-common libopenmpi-dev
+   55  mpirun --version
+   56  mpicc send_message.c -o send_message
+   57  mpirun -np 4./send_message
+   58  mpirun -np 4 ./send_message
+   59  mpirun -np 64 ./send_message
+   60  mpirun -np 8 ./send_message
+   61  mpirun -np 18 ./send_message
+   62  mpirun -np208 ./send_message
+   63  mpirun -np 18 ./send_message
+   64  mpirun -np 20 ./send_message
+   65  mpirun -np 32 ./send_message
+   66  mpirun -np 24 ./send_message
+   67  mpirun -np 30 ./send_message
+   68  mpirun -np 26 ./send_message
+   69  mpirun -np 24 ./send_message
+   70  mpirun -np 20 ./send_message
+   71  20
+   72  mpirun -np 20 ./send_message
+   73  mpicc message.c -0 message
+   74  mpicc message.c -o message
+   75  mpirun -np 4 ./message
+   76  mpirun -np 10 ./message
+   77  mpirun -np 12 ./message
+   78  mpirun -np 16 ./message
+   79  mpirun -np 24 ./message
+   80  mpicc mpi_code.c -0 mpi_code
+   81  mpicc mpi_code.c -o mpi_code
+   82  mpirun -np 24 ./mpi_code
+   83  mpicc mpi_code.c -0 mpi_code
+   84  mpicc mpi_code.c -o mpi_code
+   85  mpirun -np 24 ./mpi_code
+   86  mpicc halima_mpi_code.c -o halima_mpi_code
+   87  mpirun -np 24 ./halima_mpi_code
+   88  mpirun -np 12 ./halima_mpi_code
+   89  mpicc tolu_code.c -o tolu_code
+   90  mpicc tolu.c -o tolu
+   91  mpirun -np 12 ./tolu
+   92  mpirun -np 20 ./tolu
+   93  mpirun -np 24 ./tolu
+   94  mpicc salma_mpi_code.c -o mpicc salma_mpi_code
+   95  mpicc salma_mpi_code.c -o salma_mpi_code
+   96  mpirun -np 4 ./salma_mpi_code
+   97  mpirun -np 8 ./salma_mpi_code
+   98  mpirun -np 16 ./salma_mpi_code
+   99  mpirun -np 24 ./salma_mpi_code
+  100  ls
+  101  tapex_gen.py
+  102  pythom3 tapex_gen.py
+  103  python3 tapex_gen.py
+  104  cd
+  105  conda env remove --name robosense
+  106  exec bash
+  107  ```
+  108  iter_gen.py
+  109  tapex_gen.py
+  110  ```
+  111  conda activate robosense
+  112  ```
+  113  iter_gen.py
+  114  tapex_gen.py
+  115  ```
+  116  ```
+  117  iter_gen.py
+  118  ```
+  119  iter_gen.py'''
+  120  ```
+  121  iter_gen.py
+  122  tapex_gen.py
+  123  ```
+  124  cd
+  125  '/home/solivers/G-PlanET/data/format_conversion/iter_gen.py'
+  126  python3
+  127  ls
+  128  cd G-PlanET/
+  129  ls
+  130  cd data
+  131  ls
+  132  cd format_conversion/
+  133  ls
+  134  python3
+  135  pip install datasets "dill<0.3.5
+  136  pip install datasets "dill<0.3.5"
+  137  cd
+  138  rm -r ~/.cache/pip/selfcheck/
+  139  pip install datasets "dill<0.3.5"
+  140  '/home/solivers/G-PlanET/data/format_conversion/iter_gen.py'
+  141  npm install @types/node --save-dev
+  142  sudo apt install npm
+  143  source bash.rc
+  144  source .bash.rc
+  145  source .bashrc
+  146  conda activate robosense
+  147  '/home/solivers/G-PlanET/data/format_conversion/iter_gen.py'
+  148  python3
+  149  npm install @types/node --save-dev
+  150  '/home/solivers/G-PlanET/data/format_conversion/iter_gen.py'
+  151  source .bashrc
+  152  '/home/solivers/G-PlanET/data/format_conversion/iter_gen.py'
+  153  source .bashrc
+  154  npm
+  155  conda activate robosense
+  156  ls
+  157  cd G-PlanET/
+  158  npm install
+  159  ls
+  160  pythom3 tapex_gen.py
+  161  conda create -n robosense python=3.8
+  162  conda activate robosense
+  163  pip install -r requirements.txt
+  164  pip --version
+  165  conda list
+  166  conda -env config vars -h list
+  167  conda -env config vars list
+  168  conda env config vars list
+  169  conda env config vars list -n robosense
+  170  sudo update-alternatives --config python
+  171  sudo update-alternatives --config python2
+  172  sudo update-alternatives --config python3
+  173  conda-env config vars list
+  174  conda list
+  175  conda install python3.8
+  176  conda install python=3.8
+  177  conda install pip=24.1
+  178  conda install pip=22.2
+  179  pip install -r requirements.txt
+  180  conda install detectron2==0.6+cu102
+  181  conda install detectron2=0.6+cu102
+  182  conda install detectron2=0.6
+  183  conda install detectron2
+  184  pip install 'git+https://github.com/facebookresearch/detectron2.git'
+  185  pip install -r requirements.txt
+  186  conda install detectron2=0.6
+  187  conda config --show channels
+  188  conda config --add channels
+  189  conda config --add channels conda-forge
+  190  conda install detectron2=0.6
+  191  pip install datasets "dill<0.3.5"
+  192  bash script/data_init.sh
+  193  git clone https://github.com/Chengsong-Huang/G-PlanET.git
+  194  ls
+  195  cd downloads
+  196  ls downloads
+  197  clear
+  198  conda --version
+  199  conda list
+  200  bash anaconda-latest-Linux-x86_64.sh
+  201  source bash.rc
+  202  source /.bash.rc
+  203  source /.bashrc
+  204  source ~/.bashrc
+  205  conda
+  206  CUDA --version
+  207  torch --version
+  208  nvcc --version
+  209  sudo apt install nvidia-cuda-toolkit
+  210  ```bash
+  211  conda create -n robosense python=3.8
+  212  conda activate robosense
+  213  pip install -r requirements.txt
+  214  ```
+  215  conda create -n robosense python=3.8
+  216  conda activate robosense
+  217  conda create -n robosense python=3.8
+  218  conda activate robosense
+  219  pip install -r requirements.txt
+  220  cd
+  221  ls
+  222  cd G-PlanET/
+  223  ls
+  224  pip install -r requirements.txt
+  225  conda install pip=22.2
+  226  conda install bert_score=0.3.11
+  227  conda install bert_score=0.3
+  228  pip install -r requirements.txt
+  229  pip install detectron2
+  230  conda install detectron2
+  231  pip install -r requirements.txt
+  232  conda install detectron2=0.6
+  233  conda install -r requirements.txt
+  234  conda install
+  235  conda install
+  236  conda install requirements.txt\
+  237  conda install requirements.txt
+  238  pip install -r requirements.txt
+  239  pip install pycocotools
+  240  pip install scikit-fmm
+  241  pip install pyproject.toml
+  242  pip install torch-scatter
+  243  conda config --add channels conda
+  244  conda config --add channels bioconda
+  245  conda config
+  246  pip install torch-scatter
+  247  pip install -r requirements.txt
+  248  pip install black==21.4b2,
+  249  pip install black
+  250  pip install black=21.4
+  251  pip install black==21.4
+  252  pip install black==21.4b2
+  253  pip install torch-scatter
+  254  pip install -r requirements.txt
+  255  '/home/solivers/G-PlanET/data/format_conversion/iter_gen.py'
+  256  pip install jsonlines
+  257  pip install os
+  258  '/home/solivers/G-PlanET/data/format_conversion/iter_gen.py'
+  259  pip install jsonlines -f
+  260  conda deactivate
+  261  conda deactivate base
+  262  conda deactivate
+  263  cd
+  264  pip install json
+  265  python --v
+  266  python3 --v
+  267  python3 -v
+  268  python3
+  269  sudo apt install python3-pip
+  270  pip install json
+  271  pip install jsons
+  272  conda activate robosense
+  273  '/home/solivers/G-PlanET/data/format_conversion/iter_gen.py'
+  274  pip install jsonlines
+  275  '/home/solivers/G-PlanET/data/format_conversion/iter_gen.py'
+  276  conda list -n robosense
+  277  exec bashrc
+  278  exec .bashrc
+  279  exec /.bashrc
+  280  ~/.bashrc
+  281  exec ~/.bashrc
+  282  mpicc matmult.c -o mpicc matmult
+  283  mpicc -o matmult matmult.c
+  284  mpirun -np 4 ./matmult
+  285  mpirun -np 16 ./matmult
+  286  sudo apt get install hwloc
+  287  sudo apt-get install hwloc
+  288  mpirun -np 4 ./matmult
+  289  sudo apt get update
+  290  sudo apt-get update
+  291  mpirun -np 4 ./matmult
+  292  ./configure --enable-32bits-pci-domain
+  293  ./configure --enable-32bits-pci-domain make sudo make install
+  294  ./configure --enable-32bits-pci-domain
+  295  ls
+  296  sudo apt-get install autoconf automake libtool
+  297  autoreconf -i
+  298  ./configure
+  299  autoreconf -i
+  300  mpicc -o matrixmult matrixmult.c
+  301  mpirun -np 4 ./matrixmult
+  302  autoreconf --install
+  303  mpicc -o matrixmult matrixmult.c
+  304  mpirun -np 4 ./matrixmult
+  305  mpicc -o mat_mult mat_mult.c
+  306  mpirun -np 4 ./mat_mult
+  307  --enable-32bits-pci-domain
+  308  mpicc -o mult_s mult_s.c
+  309  mpirun -np 4 ./mult_s
+  310  mpicc -o mult_s mult_s.c
+  311  mpirun -np 4 ./mult_s
+  312  mpirun -np 64 ./mult_s
+  313  mpirun -np 24 ./mult_s
+  314  sudo ~/.bashrc
+  315  sudo source ~/.bashrc
+  316  source .bashrc
+  317  pip install jsonlines
+  318  conda deactivate
+  319  pip install jsonlines
+  320  conda deactivate
+  321  pip install jsonlines
+  322  conda activate robosense
+  323  pip install jsonlines
+  324  '/home/solivers/G-PlanET/data/format_conversion/iter_gen.py'
+  325  '/home/solivers/G-PlanET/data/format_conversion/tapex_gen.py'
+  326  '/home/solivers/G-PlanET/script/data_init.sh'
+  327  cd G-PlanET/
+  328  '/home/solivers/G-PlanET/script/data_init.sh'
+  329  cd
+  330  '/home/solivers/G-PlanET/caption_eval-master/get_stanford_models.sh'
+  331  '/home/solivers/G-PlanET/caption_eval-master/get_google_word2vec_model.sh'
+  332  '/home/solivers/G-PlanET/caption_eval-master/custom_caption_eval.py'
+  333  conda activate robosense
+  334  '/home/solivers/G-PlanET/caption_eval-master/custom_caption_eval.py'
+  335  python3
+  336  '/home/solivers/G-PlanET/caption_eval-master/pycocotools/coco.py'
+  337  '/home/solivers/G-PlanET/caption_eval-master/pycocotools/__init__.py'
+  338  '/home/solivers/G-PlanET/caption_eval-master/pycocotools/coco.py'
+  339  '/home/solivers/G-PlanET/caption_eval-master/pycocoevalcap/eval.py'
+  340  '/home/solivers/G-PlanET/caption_eval-master/pycocotools/coco.py'
+  341  '/home/solivers/G-PlanET/caption_eval-master/pycocoevalcap/eval.py'
+  342  '/home/solivers/G-PlanET/caption_eval-master/pycocoevalcap/eval_spice.py'
+  343  '/home/solivers/G-PlanET/caption_eval-master/pycocoevalcap/wmd/wmd.py'
+  344  '/home/solivers/G-PlanET/script/bart_iter_test.sh'
+  345  '/home/solivers/G-PlanET/caption_eval-master/pycocotools/coco.py'
+  346  cd G-PlanET/
+  347  ls
+  348  cd caption_eval-master/
+  349  ls
+  350  cd pycocoevalcap/
+  351  ls
+  352  ./eval.py
+  353  python '/home/solivers/G-PlanET/caption_eval-master/custom_caption_eval.py'
+  354  '/home/solivers/G-PlanET/caption_eval-master/pycocoevalcap/wmd/wmd.py'
+  355  python '/home/solivers/G-PlanET/caption_eval-master/pycocoevalcap/wmd/wmd.py'
+  356  '/home/solivers/G-PlanET/caption_eval-master/pycocoevalcap/wmd/wmd.py'
+  357  python '/home/solivers/G-PlanET/caption_eval-master/pycocoevalcap/wmd/wmd.py'
+  358  python '/home/solivers/G-PlanET/caption_eval-master/custom_caption_eval.py'
+  359  pip install gensim
+  360  python '/home/solivers/G-PlanET/caption_eval-master/custom_caption_eval.py'
+  361  which
+  362  which java
+  363  python '/home/solivers/G-PlanET/caption_eval-master/custom_caption_eval.py'
+  364  '/home/solivers/G-PlanET/caption_eval-master/custom_caption_eval.py'
+  365  '/home/solivers/G-PlanET/caption_eval-master/get_google_word2vec_model.sh'
+  366  '/home/solivers/G-PlanET/caption_eval-master/custom_caption_eval.py'
+  367  pip install ot
+  368  pip install pot
+  369  '/home/solivers/G-PlanET/caption_eval-master/custom_caption_eval.py'
+  370  '/home/solivers/G-PlanET/evaluation/split_eval_no_group.py'
+  371  python '/home/solivers/G-PlanET/evaluation/split_eval_no_group.py'
+  372  history
+  373  history 1-372
+  374  history 372
