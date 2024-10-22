@@ -26,13 +26,15 @@ pip install -r requirements.txt
 
 ## Scripts
 
-```
-bash script/data_init.sh
+- `data_init.sh`: - Runs initiaiizing dataset procesing steps.
+- `bart_train.sh`: Trains the mmodel.
+- `bart_test.sh`: Evaluates model training, validating the model against test data.
+- `bart_iter_test.sh`: Runs a test on the model with iterative self-training.
+- `bart_table_iter_test.sh`: Ealuates model trainig, validating the model against iterative training table.
+- `tapex_train.sh`: Trains and evaluates tapex model
+- `tapex_test.sh`: Tests tapex model, validating against test data.
 
-```
-
-NOTE: Check and fill in your data path and model path in the scripts before execution
+# NOTE: Check and fill in your data path and model path in the scripts before execution
 
 Models used: `facebook/bart-base` and `facebook/bart-large`. All models can be found on the HuggingFace Hub.
 
-#FUpdated Semi-frequently.
